@@ -1,0 +1,2 @@
+# SoftUniSimpleCalculations
+Simple Calculations Answers
