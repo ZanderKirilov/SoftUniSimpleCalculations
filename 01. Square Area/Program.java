@@ -1,5 +1,3 @@
-package p01_SquareArea;
-
 import java.util.Scanner;
 
 public class SquareArea {
